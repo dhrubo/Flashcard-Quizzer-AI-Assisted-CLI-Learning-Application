@@ -1,0 +1,16 @@
+{
+  "title": "Python Basics",
+  "cards": [
+    {"front": "Which keyword defines a function?", "back": "def"},
+    {"front": "Which built-in function returns the number of items in a list?", "back": "len"},
+    {"front": "What does 7 // 2 evaluate to?", "back": "3"},
+    {"front": "What does 2 ** 3 evaluate to?", "back": "8"},
+    {"front": "Which keyword leaves a loop immediately?", "back": "break"},
+    {"front": "Which keyword jumps to the next iteration of a loop?", "back": "continue"},
+    {"front": "Which list method adds an item to the end of a list?", "back": "append"},
+    {"front": "What type does input() always return?", "back": "str"},
+    {"front": "Which value represents 'nothing' in Python?", "back": "None"},
+    {"front": "Which keyword starts the block that handles an exception?", "back": "except"},
+    {"front": "Which operator checks whether two values are equal?", "back": "=="}
+  ]
+}

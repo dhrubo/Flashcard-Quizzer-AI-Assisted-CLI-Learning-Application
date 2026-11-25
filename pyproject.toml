@@ -1,0 +1,19 @@
+[project]
+name = "flashcard-quizzer"
+version = "1.0.0"
+description = "AI-assisted command-line flashcard quiz application"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+
+[tool.coverage.run]
+# Measure application code only: tests and the virtualenv would inflate
+# the number.
+omit = [".venv/*", "venv/*", "tests/*"]
+
+[tool.coverage.report]
+show_missing = true
+exclude_also = ['if __name__ == "__main__":']

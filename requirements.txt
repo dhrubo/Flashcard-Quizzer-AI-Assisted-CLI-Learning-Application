@@ -1,0 +1,5 @@
+# The application itself uses only the Python standard library (3.10+).
+# These packages are needed to run the test suite and linting.
+pytest>=8.0
+pytest-cov>=5.0
+flake8>=7.0

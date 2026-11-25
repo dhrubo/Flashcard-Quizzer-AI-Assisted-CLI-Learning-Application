@@ -1,0 +1,12 @@
+{
+  "title": "Design Patterns",
+  "cards": [
+    {"front": "Which pattern lets you swap one algorithm for another behind a common interface?", "back": "Strategy"},
+    {"front": "Which pattern hides object creation so callers never name concrete classes?", "back": "Factory"},
+    {"front": "Which pattern guarantees a class has exactly one instance?", "back": "Singleton"},
+    {"front": "Which pattern notifies subscribers automatically when an object changes?", "back": "Observer"},
+    {"front": "Which pattern converts one interface into another that a client expects?", "back": "Adapter"},
+    {"front": "Which pattern wraps an object to add behaviour without changing its class?", "back": "Decorator"},
+    {"front": "Which pattern turns a request into an object that can be queued or undone?", "back": "Command"}
+  ]
+}

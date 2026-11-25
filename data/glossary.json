@@ -1,0 +1,12 @@
+[
+  {"front": "A function that calls itself to solve a smaller version of the same problem", "back": "Recursion"},
+  {"front": "A blueprint that defines the data and behaviour of objects", "back": "Class"},
+  {"front": "A value passed into a function when it is called", "back": "Argument"},
+  {"front": "An error that is raised while a program is running", "back": "Exception"},
+  {"front": "The process of finding and fixing defects in code", "back": "Debugging"},
+  {"front": "A finite, step-by-step procedure for solving a problem", "back": "Algorithm"},
+  {"front": "Restructuring code without changing what it does", "back": "Refactoring"},
+  {"front": "A last-in, first-out (LIFO) collection", "back": "Stack"},
+  {"front": "A first-in, first-out (FIFO) collection", "back": "Queue"},
+  {"front": "A reusable, general solution to a common software design problem", "back": "Design pattern"}
+]
